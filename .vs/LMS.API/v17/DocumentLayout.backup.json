@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dhire\\source\\repos\\LMS.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:models\\quiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\dtos\\answersubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:dtos\\answersubmissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\services\\certificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:services\\certificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\interfaces\\icertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:interfaces\\icertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:controllers\\certificatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:dtos\\userupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\helpers\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:helpers\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:interfaces\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\interfaces\\iverifycoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:interfaces\\iverifycoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\models\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:models\\certificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\dtos\\certificateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:dtos\\certificateresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\dtos\\verifycertificateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:dtos\\verifycertificateresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\controllers\\doubtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:controllers\\doubtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|c:\\users\\dhire\\source\\repos\\lms.api\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18B84F7B-A6F1-4FB0-B8F5-64BFA172A90C}|LMS.API.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Quiz.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\Quiz.cs",
+              "RelativeDocumentMoniker": "Models\\Quiz.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\Quiz.cs",
+              "RelativeToolTip": "Models\\Quiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:56:42.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnswerSubmissionDto.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\AnswerSubmissionDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\AnswerSubmissionDto.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\AnswerSubmissionDto.cs",
+              "RelativeToolTip": "DTOs\\AnswerSubmissionDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:55:49.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\UserUpdateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserUpdateDto.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\UserUpdateDto.cs",
+              "RelativeToolTip": "DTOs\\UserUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T13:10:12.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T04:40:39.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T10:06:23.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CertificateController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\CertificateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CertificateController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\CertificateController.cs",
+              "RelativeToolTip": "Controllers\\CertificateController.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAYwFwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T11:16:17.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Interfaces\\ICertificateService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICertificateService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Interfaces\\ICertificateService.cs",
+              "RelativeToolTip": "Interfaces\\ICertificateService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAMwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:32:04.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CertificateService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Services\\CertificateService.cs",
+              "RelativeDocumentMoniker": "Services\\CertificateService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Services\\CertificateService.cs",
+              "RelativeToolTip": "Services\\CertificateService.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwJkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:19:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T05:38:16.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAArwFcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:35:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T06:09:02.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Helpers\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "Helpers\\CloudinaryService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Helpers\\CloudinaryService.cs",
+              "RelativeToolTip": "Helpers\\CloudinaryService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAADwvzcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:16:38.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\UserRegisterDto.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:35:53.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:37:27.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "Controllers\\VideoController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:16:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Interfaces\\IEmailService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Interfaces\\IEmailService.cs",
+              "RelativeToolTip": "Interfaces\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:16:21.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IVerifyCodeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Interfaces\\IVerifyCodeRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVerifyCodeRepository.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Interfaces\\IVerifyCodeRepository.cs",
+              "RelativeToolTip": "Interfaces\\IVerifyCodeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T12:16:20.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Certificate.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\Certificate.cs",
+              "RelativeDocumentMoniker": "Models\\Certificate.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\Certificate.cs",
+              "RelativeToolTip": "Models\\Certificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:15:54.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CertificateResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\CertificateResponseDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CertificateResponseDto.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\CertificateResponseDto.cs",
+              "RelativeToolTip": "DTOs\\CertificateResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:41:08.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VerifyCertificateResponse.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\VerifyCertificateResponse.cs",
+              "RelativeDocumentMoniker": "DTOs\\VerifyCertificateResponse.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\DTOs\\VerifyCertificateResponse.cs",
+              "RelativeToolTip": "DTOs\\VerifyCertificateResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-19T05:44:28.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DoubtController.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\DoubtController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoubtController.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Controllers\\DoubtController.cs",
+              "RelativeToolTip": "Controllers\\DoubtController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAqwBgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T11:17:06.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\dhire\\source\\repos\\LMS.API\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAywA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-12T10:39:01.669Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
